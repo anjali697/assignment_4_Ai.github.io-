@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Summary of Moravec's paradox}
+\author{ANJALI SEETHA}
+\date{July 2021}
+
+\begin{document}
+
+\maketitle
+
+\pagestyle{headings}
+
+\subsection{A compact way to express this argument would be}
+All human skills are implemented biologically, using machinery designed by the process of natural selection. We should expect the difficulty of reverse-engineering any human skill to be roughly proportional to the amount of time that skill has been evolving in animals. The oldest human skills are largely unconscious and so appear to us to be effortless. Therefore, we should expect skills that appear effortless to be difficult to reverse-engineer, but skills that require effort may not necessarily be difficult to engineer at all. 
+
+Some examples of skills that have been evolving for millions of years: recognizing a face, moving around in space, judging people's motivations, catching a ball, recognizing a voice, setting appropriate goals, paying attention to things that are interesting; anything to do with perception, attention, visualization, motor skills, social skills and so on.
+
+\subsection{Historical influence on artificial intelligence}
+
+Their optimism stemmed in part from the fact that they had been successful at writing programs that used logic, solved algebra and geometry problems and played games like checkers and chess. Many prominent researchers assumed that, having solved the hard problems, the easy problems of vision and commonsense reasoning would soon fall into place. They were wrong, and one reason is that these problems are not easy at all, but incredibly difficult. The fact that they had solved problems like logic and algebra was irrelevant, because these problems are extremely easy for machines to solve.
+
+Rodney Brooks explains that, according to early AI research, intelligence was best characterized as the things that highly educated male scientists found challenging, such as chess, symbolic integration, proving mathematical theorems and solving complicated word algebra problems.
+
+
+\end{document}
